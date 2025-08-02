@@ -16,7 +16,7 @@ A TensorFlow-based face recognition system using ResNet50 with ArcFace and Siame
 git clone https://github.com/yourusername/face_recognition
 cd face-recognition-system
 pip install -r requirements.txt
-Usage
+##  Usage
 1. Prepare Dataset
 Organize images in data/ directory:
 
